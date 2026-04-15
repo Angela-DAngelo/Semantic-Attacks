@@ -11,7 +11,7 @@ Official implementation of **Semantic-Aware Generative Attacks (SAGA)**.
 
 
 <p align="center">
-  <img src="assets/visual.pdf" width="750"/>
+  <img src="assets/visual.jog" width="750"/>
 </p>
 
 Conceptual illustration of perceptual identity and identity-preserving attacks for watermark robustness.

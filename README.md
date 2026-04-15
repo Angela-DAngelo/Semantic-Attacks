@@ -80,6 +80,10 @@ The attack is parameterized as:
 I_t = G(I, sr)
 ]
 
+<p align="center">
+  <img src="assets/example.jpg" width="750"/>
+</p>
+
 ---
 
 ## 📁 Repository Structure

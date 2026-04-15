@@ -22,9 +22,9 @@
     <th>sr = 0.95</th>
   </tr>
   <tr>
-    <td><img src="dataset/originals/1.png" width="200"/></td>
-    <td><img src="dataset/small/1_i0.350_attacked.jpg" width="200"/></td>
-    <td><img src="dataset/small/1_i0.750_attacked.jpg" width="200"/></td>
-    <td><img src="dataset/small/1_i0.950_attacked.jpg" width="200"/></td>
+    <td><img src="../dataset/originals/1.png" width="200"/></td>
+    <td><img src="../dataset/small/1_i0.350_attacked.jpg" width="200"/></td>
+    <td><img src="../dataset/small/1_i0.750_attacked.jpg" width="200"/></td>
+    <td><img src="../dataset/small/1_i0.950_attacked.jpg" width="200"/></td>
   </tr>
 </table>

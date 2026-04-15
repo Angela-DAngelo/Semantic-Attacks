@@ -91,11 +91,13 @@ I_t = G(I, sr)
 ```bash
 semantic-attacks/
 │
+├── dataset/                 # Small dataset of attacked images
+|
+├── examples/                # Visual examples of SAGA attacks
+|
 ├── src/
 │   ├── semantic_attack.py   # Main pipeline (CLI + core logic)
 │   └── requirements.txt
-│
-├── examples/               # Example input images
 │
 └── README.md
 ```

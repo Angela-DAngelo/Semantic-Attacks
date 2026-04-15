@@ -7,6 +7,14 @@ Official implementation of **Semantic-Aware Generative Attacks (SAGA)**.
 
 > *Rethinking Robustness in Digital Watermarking: A Perceptual Identity-Based Framework*
 > IMAVIS 2026 (submitted)
+>
+
+
+<p align="center">
+  <img src="assets/visual.pdf" width="750"/>
+</p>
+
+Conceptual illustration of perceptual identity and identity-preserving attacks for watermark robustness.
 
 ---
 

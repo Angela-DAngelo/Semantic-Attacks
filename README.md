@@ -5,8 +5,8 @@ This repository provides the implementation of SAGA, a framework for generating 
 
 Official implementation of **Semantic-Aware Generative Attacks (SAGA)**.
 
-> *Rethinking Robustness in Digital Watermarking: A Perceptual Identity-Based Framework*
-> IMAVIS 2026 (submitted)
+> *"Rethinking Robustness in Digital Watermarking: A Perceptual Identity-Based Framework)*
+> (submitted to IMAVIS 2026)
 >
 
 

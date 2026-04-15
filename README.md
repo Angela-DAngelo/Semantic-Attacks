@@ -172,21 +172,6 @@ All outputs are saved in the specified output directory.
 
 ---
 
-## 📸 Examples
-
-Run multiple values of ( sr ):
-
-```bash
-for sr in 0.2 0.5 0.8; do
-  python src/semantic_attack.py \
-    --input examples/input/image.png \
-    --output_dir examples/output \
-    --sr $sr
-done
-```
-
----
-
 ## 📈 Applications
 
 * Watermark robustness evaluation
@@ -196,22 +181,6 @@ done
 
 ---
 
-## ⚠️ Limitations
-
-* No psychovisual calibration of perceptual identity (PIB not operational)
-* Depends on segmentation quality (SAM2)
-* Not a full benchmark pipeline (research prototype)
-
----
-
-## 🔬 Future Work
-
-* Psychovisual estimation of PIB
-* Identity-aware similarity metrics
-* Integration with watermark benchmarks (e.g., WIBE)
-* Diffusion-based inpainting models
-
----
 
 ## 📜 Citation
 
@@ -223,12 +192,6 @@ done
   year    = {2026}
 }
 ```
-
----
-
-## 📄 License
-
-MIT License
 
 ---
 

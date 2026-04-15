@@ -1,0 +1,154 @@
+{
+  "sr": 0.95,
+  "raw_masks_count": 19,
+  "regions_filtered": [
+    {
+      "region_id": 1,
+      "mask": null,
+      "bbox_xyxy": [
+        422,
+        127,
+        598,
+        907
+      ],
+      "area_pixels": 103610,
+      "area_ratio": 0.14814295845534406,
+      "centroid_xy": [
+        508.9730720972879,
+        522.7255573786314
+      ],
+      "centrality_score": 0.6529155567590793,
+      "foreground_score": 0.7888130142078605,
+      "stability_score": 0.9716718792915344,
+      "priority_score": 0.671633250883093,
+      "is_filtered": false,
+      "filter_reason": ""
+    },
+    {
+      "region_id": 11,
+      "mask": null,
+      "bbox_xyxy": [
+        590,
+        509,
+        682,
+        586
+      ],
+      "area_pixels": 5775,
+      "area_ratio": 0.00825717194363104,
+      "centroid_xy": [
+        639.107012987013,
+        550.5452813852814
+      ],
+      "centrality_score": 0.38148256084190324,
+      "foreground_score": 0.5247493489481259,
+      "stability_score": 0.9709848165512085,
+      "priority_score": 0.2689917432666588,
+      "is_filtered": false,
+      "filter_reason": ""
+    },
+    {
+      "region_id": 5,
+      "mask": null,
+      "bbox_xyxy": [
+        319,
+        353,
+        437,
+        436
+      ],
+      "area_pixels": 7535,
+      "area_ratio": 0.010773643393118594,
+      "centroid_xy": [
+        381.06980756469807,
+        400.62229595222294
+      ],
+      "centrality_score": 0.8257196409800448,
+      "foreground_score": 0.7746839288516264,
+      "stability_score": 0.9684114456176758,
+      "priority_score": 0.6946643449030154,
+      "is_filtered": false,
+      "filter_reason": ""
+    },
+    {
+      "region_id": 4,
+      "mask": null,
+      "bbox_xyxy": [
+        2,
+        832,
+        203,
+        931
+      ],
+      "area_pixels": 11403,
+      "area_ratio": 0.016304161328696925,
+      "centroid_xy": [
+        102.15294220819082,
+        884.2967640094712
+      ],
+      "centrality_score": 0.28587318292145747,
+      "foreground_score": 0.49385071868860697,
+      "stability_score": 0.9379245638847351,
+      "priority_score": 0.1473156765036669,
+      "is_filtered": false,
+      "filter_reason": ""
+    },
+    {
+      "region_id": 15,
+      "mask": null,
+      "bbox_xyxy": [
+        113,
+        450,
+        426,
+        575
+      ],
+      "area_pixels": 26234,
+      "area_ratio": 0.03750972273060029,
+      "centroid_xy": [
+        293.96397804376,
+        508.3122665243577
+      ],
+      "centrality_score": 0.9014406695595423,
+      "foreground_score": 0.872188841903268,
+      "stability_score": 0.9319828748703003,
+      "priority_score": 0.7623229183717979,
+      "is_filtered": false,
+      "filter_reason": ""
+    },
+    {
+      "region_id": 8,
+      "mask": null,
+      "bbox_xyxy": [
+        0,
+        445,
+        195,
+        579
+      ],
+      "area_pixels": 16312,
+      "area_ratio": 0.0233231149341142,
+      "centroid_xy": [
+        87.29389406571849,
+        510.88217263364396
+      ],
+      "centrality_score": 0.4736408946799531,
+      "foreground_score": 0.6107488455101006,
+      "stability_score": 0.92909175157547,
+      "priority_score": 0.32599751802598814,
+      "is_filtered": false,
+      "filter_reason": ""
+    }
+  ],
+  "regions_selected_ids": [
+    11,
+    5,
+    4,
+    8,
+    15,
+    1
+  ],
+  "selected_region_areas": [
+    0.00825717194363104,
+    0.010773643393118594,
+    0.016304161328696925,
+    0.0233231149341142,
+    0.03750972273060029,
+    0.14814295845534406
+  ]
+}

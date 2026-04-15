@@ -1,0 +1,178 @@
+{
+  "sr": 0.95,
+  "raw_masks_count": 34,
+  "regions_filtered": [
+    {
+      "region_id": 2,
+      "mask": null,
+      "bbox_xyxy": [
+        603,
+        479,
+        682,
+        1023
+      ],
+      "area_pixels": 21437,
+      "area_ratio": 0.030650908217423133,
+      "centroid_xy": [
+        656.9856323179549,
+        836.3846153846154
+      ],
+      "centrality_score": 0.20789763264193162,
+      "foreground_score": 0.48742355591440156,
+      "stability_score": 0.981992781162262,
+      "priority_score": 0.2724303505184523,
+      "is_filtered": false,
+      "filter_reason": ""
+    },
+    {
+      "region_id": 3,
+      "mask": null,
+      "bbox_xyxy": [
+        238,
+        208,
+        327,
+        302
+      ],
+      "area_pixels": 4834,
+      "area_ratio": 0.006911717606149341,
+      "centroid_xy": [
+        287.30450972279687,
+        247.65494414563508
+      ],
+      "centrality_score": 0.6180642970668979,
+      "foreground_score": 0.6545083705594017,
+      "stability_score": 0.9764729738235474,
+      "priority_score": 0.5761967211179884,
+      "is_filtered": false,
+      "filter_reason": ""
+    },
+    {
+      "region_id": 4,
+      "mask": null,
+      "bbox_xyxy": [
+        54,
+        230,
+        139,
+        319
+      ],
+      "area_pixels": 4242,
+      "area_ratio": 0.006065268118594436,
+      "centroid_xy": [
+        95.41560584629892,
+        262.83592644978785
+      ],
+      "centrality_score": 0.3851467383329915,
+      "foreground_score": 0.5246122182944322,
+      "stability_score": 0.9764678478240967,
+      "priority_score": 0.3624637126613704,
+      "is_filtered": false,
+      "filter_reason": ""
+    },
+    {
+      "region_id": 9,
+      "mask": null,
+      "bbox_xyxy": [
+        459,
+        914,
+        591,
+        1023
+      ],
+      "area_pixels": 10666,
+      "area_ratio": 0.015250388909224012,
+      "centroid_xy": [
+        525.9009000562535,
+        980.3711794487156
+      ],
+      "centrality_score": 0.2488650857901945,
+      "foreground_score": 0.4670325547138823,
+      "stability_score": 0.9419041275978088,
+      "priority_score": 0.21649676389267597,
+      "is_filtered": false,
+      "filter_reason": ""
+    },
+    {
+      "region_id": 14,
+      "mask": null,
+      "bbox_xyxy": [
+        123,
+        0,
+        243,
+        214
+      ],
+      "area_pixels": 3714,
+      "area_ratio": 0.00531032668374817,
+      "centroid_xy": [
+        197.75121163166398,
+        64.01373182552504
+      ],
+      "centrality_score": 0.3134276904242529,
+      "foreground_score": 0.5015053382062612,
+      "stability_score": 0.9406095147132874,
+      "priority_score": 0.26557565217903334,
+      "is_filtered": false,
+      "filter_reason": ""
+    },
+    {
+      "region_id": 17,
+      "mask": null,
+      "bbox_xyxy": [
+        0,
+        533,
+        257,
+        1023
+      ],
+      "area_pixels": 44498,
+      "area_ratio": 0.06362383327232797,
+      "centroid_xy": [
+        95.12503932761022,
+        788.7618994112095
+      ],
+      "centrality_score": 0.3625503425206257,
+      "foreground_score": 0.6381723199018873,
+      "stability_score": 0.9293224811553955,
+      "priority_score": 0.4233891553691581,
+      "is_filtered": false,
+      "filter_reason": ""
+    },
+    {
+      "region_id": 1,
+      "mask": null,
+      "bbox_xyxy": [
+        15,
+        694,
+        592,
+        1023
+      ],
+      "area_pixels": 100240,
+      "area_ratio": 0.14332448755490484,
+      "centroid_xy": [
+        286.3819632881085,
+        905.6714984038308
+      ],
+      "centrality_score": 0.4444636884695249,
+      "foreground_score": 0.6538306917774128,
+      "stability_score": 0.9256274700164795,
+      "priority_score": 0.5286905164243612,
+      "is_filtered": false,
+      "filter_reason": ""
+    }
+  ],
+  "regions_selected_ids": [
+    14,
+    4,
+    3,
+    9,
+    2,
+    17,
+    1
+  ],
+  "selected_region_areas": [
+    0.00531032668374817,
+    0.006065268118594436,
+    0.006911717606149341,
+    0.015250388909224012,
+    0.030650908217423133,
+    0.06362383327232797,
+    0.14332448755490484
+  ]
+}

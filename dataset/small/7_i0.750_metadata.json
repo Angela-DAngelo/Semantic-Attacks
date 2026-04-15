@@ -1,0 +1,104 @@
+{
+  "sr": 0.75,
+  "raw_masks_count": 9,
+  "regions_filtered": [
+    {
+      "region_id": 2,
+      "mask": null,
+      "bbox_xyxy": [
+        0,
+        477,
+        197,
+        631
+      ],
+      "area_pixels": 21650,
+      "area_ratio": 0.03095545845534407,
+      "centroid_xy": [
+        96.58069284064665,
+        538.7186605080832
+      ],
+      "centrality_score": 0.49153159831486304,
+      "foreground_score": 0.6324670858654512,
+      "stability_score": 0.9582448601722717,
+      "priority_score": 0.34116516673457714,
+      "is_filtered": false,
+      "filter_reason": ""
+    },
+    {
+      "region_id": 1,
+      "mask": null,
+      "bbox_xyxy": [
+        140,
+        151,
+        563,
+        941
+      ],
+      "area_pixels": 81604,
+      "area_ratio": 0.1166784864568082,
+      "centroid_xy": [
+        297.3574212048429,
+        415.2134086564384
+      ],
+      "centrality_score": 0.8380693154752272,
+      "foreground_score": 0.758619818280114,
+      "stability_score": 0.9566431641578674,
+      "priority_score": 0.718085819987234,
+      "is_filtered": false,
+      "filter_reason": ""
+    },
+    {
+      "region_id": 3,
+      "mask": null,
+      "bbox_xyxy": [
+        0,
+        282,
+        112,
+        400
+      ],
+      "area_pixels": 10443,
+      "area_ratio": 0.01493154053806735,
+      "centroid_xy": [
+        50.45973379297137,
+        345.1089725174758
+      ],
+      "centrality_score": 0.3548008677874276,
+      "foreground_score": 0.5238060497771533,
+      "stability_score": 0.9476351141929626,
+      "priority_score": 0.11753427544511072,
+      "is_filtered": false,
+      "filter_reason": ""
+    },
+    {
+      "region_id": 8,
+      "mask": null,
+      "bbox_xyxy": [
+        291,
+        509,
+        682,
+        1023
+      ],
+      "area_pixels": 66289,
+      "area_ratio": 0.09478089540629575,
+      "centroid_xy": [
+        549.6743200229299,
+        690.461132314562
+      ],
+      "centrality_score": 0.5034672689723101,
+      "foreground_score": 0.6933616574700895,
+      "stability_score": 0.9152562022209167,
+      "priority_score": 0.37620601823363414,
+      "is_filtered": false,
+      "filter_reason": ""
+    }
+  ],
+  "regions_selected_ids": [
+    3,
+    2,
+    8
+  ],
+  "selected_region_areas": [
+    0.01493154053806735,
+    0.03095545845534407,
+    0.09478089540629575
+  ]
+}

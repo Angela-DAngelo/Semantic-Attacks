@@ -1,0 +1,130 @@
+{
+  "sr": 0.95,
+  "raw_masks_count": 23,
+  "regions_filtered": [
+    {
+      "region_id": 13,
+      "mask": null,
+      "bbox_xyxy": [
+        0,
+        0,
+        682,
+        255
+      ],
+      "area_pixels": 104334,
+      "area_ratio": 0.14917814330161056,
+      "centroid_xy": [
+        346.90493990453734,
+        91.82392125289934
+      ],
+      "centrality_score": 0.4196003838602278,
+      "foreground_score": 0.6460778899937383,
+      "stability_score": 0.9722405672073364,
+      "priority_score": 0.7020583969617056,
+      "is_filtered": false,
+      "filter_reason": ""
+    },
+    {
+      "region_id": 4,
+      "mask": null,
+      "bbox_xyxy": [
+        0,
+        923,
+        682,
+        1023
+      ],
+      "area_pixels": 26910,
+      "area_ratio": 0.038476276537335284,
+      "centroid_xy": [
+        300.41341508732813,
+        995.4935340022297
+      ],
+      "centrality_score": 0.3268649784349775,
+      "foreground_score": 0.579561219721713,
+      "stability_score": 0.9563006162643433,
+      "priority_score": 0.43319571603057727,
+      "is_filtered": false,
+      "filter_reason": ""
+    },
+    {
+      "region_id": 0,
+      "mask": null,
+      "bbox_xyxy": [
+        159,
+        692,
+        529,
+        993
+      ],
+      "area_pixels": 57333,
+      "area_ratio": 0.08197548728038068,
+      "centroid_xy": [
+        349.31798440688607,
+        847.1514659968954
+      ],
+      "centrality_score": 0.5368500756348369,
+      "foreground_score": 0.7412567721151367,
+      "stability_score": 0.9441216588020325,
+      "priority_score": 0.7061531468612094,
+      "is_filtered": false,
+      "filter_reason": ""
+    },
+    {
+      "region_id": 20,
+      "mask": null,
+      "bbox_xyxy": [
+        472,
+        0,
+        682,
+        102
+      ],
+      "area_pixels": 4935,
+      "area_ratio": 0.007056128751830161,
+      "centroid_xy": [
+        593.9132725430597,
+        41.74224924012158
+      ],
+      "centrality_score": 0.16636161399523686,
+      "foreground_score": 0.4187443692412166,
+      "stability_score": 0.9352433085441589,
+      "priority_score": 0.16166024256300016,
+      "is_filtered": false,
+      "filter_reason": ""
+    },
+    {
+      "region_id": 3,
+      "mask": null,
+      "bbox_xyxy": [
+        0,
+        194,
+        682,
+        502
+      ],
+      "area_pixels": 65102,
+      "area_ratio": 0.09308370699121522,
+      "centroid_xy": [
+        334.89511842954136,
+        286.4709839943473
+      ],
+      "centrality_score": 0.6882290109990746,
+      "foreground_score": 0.7872117190578948,
+      "stability_score": 0.9131953716278076,
+      "priority_score": 0.7992007472812305,
+      "is_filtered": false,
+      "filter_reason": ""
+    }
+  ],
+  "regions_selected_ids": [
+    20,
+    4,
+    0,
+    3,
+    13
+  ],
+  "selected_region_areas": [
+    0.007056128751830161,
+    0.038476276537335284,
+    0.08197548728038068,
+    0.09308370699121522,
+    0.14917814330161056
+  ]
+}

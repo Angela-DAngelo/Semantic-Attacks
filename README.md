@@ -95,9 +95,7 @@ semantic-attacks/
 │   ├── semantic_attack.py   # Main pipeline (CLI + core logic)
 │   └── requirements.txt
 │
-├── examples/
-│   ├── input/              # Example input images
-│   └── output/             # Example outputs
+├── examples/               # Example input images
 │
 └── README.md
 ```

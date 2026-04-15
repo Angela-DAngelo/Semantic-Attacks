@@ -11,7 +11,7 @@ Official implementation of **Semantic-Aware Generative Attacks (SAGA)**.
 
 
 <p align="center">
-  <img src="assets/visual.jog" width="750"/>
+  <img src="assets/visual.jpg" width="750"/>
 </p>
 
 Conceptual illustration of perceptual identity and identity-preserving attacks for watermark robustness.
@@ -40,6 +40,8 @@ This creates a mismatch between:
 * watermark robustness
 * similarity metrics
 * human perception
+
+To formalize this gap, we introduce Perceptual Identity (PI), which captures whether a transformed image is still perceived as the same visual entity, and the Perceptual Identity Boundary (PIB), which defines the limit beyond which this identity is no longer preserved.
 
 **SAGA addresses this gap** by generating controlled transformations that:
 

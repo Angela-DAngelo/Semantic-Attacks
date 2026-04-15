@@ -1,5 +1,7 @@
 ## SAGA Examples
 
+This page illustrates the behavior of the SAGA attack across different image categories, comparing multiple values of sr and two segmentation backbones. The results show that the perceptual impact of the attack depends not only on the chosen model but also on the content and structure of the image.
+
 
 <table align="center">
   <tr>

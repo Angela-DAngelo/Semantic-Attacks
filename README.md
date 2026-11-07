@@ -1,9 +1,9 @@
 # Semantic-Attacks
-This repository provides the implementation of SAGA, a framework for generating controlled, identity-preserving transformations that challenge digital watermarking systems. The code enables reproducible experiments on perceptual identity and supports research on robustness evaluation beyond distortion-based benchmarks.
+This repository provides the implementation of SAPIRE, a framework for generating controlled, identity-preserving transformations that challenge digital watermarking systems. The code enables reproducible experiments on perceptual identity and supports research on robustness evaluation beyond distortion-based benchmarks.
 
-# Semantic-Aware Generative Attacks (SAGA)
+# Semantic-Aware  Perceptual Identity Region Editing (SAPIRE)
 
-Official implementation of **Semantic-Aware Generative Attacks (SAGA)**.
+Official implementation of **Semantic-Aware Perceptual Identity Region Editing (SAPIRE)**.
 
 > *"Rethinking Robustness in Digital Watermarking: A Perceptual Identity-Based Framework)*
 > (submitted to IMAVIS 2026)
@@ -20,9 +20,9 @@ Conceptual illustration of perceptual identity and identity-preserving attacks f
 
 ## 📌 Overview
 
-This repository provides a minimal and reproducible implementation of **SAGA**, a framework for generating **identity-preserving generative attacks** against digital watermarking systems.
+This repository provides a minimal and reproducible implementation of **SAPIRE**, a framework for generating **identity-preserving generative attacks** against digital watermarking systems.
 
-Unlike traditional distortion-based attacks, SAGA:
+Unlike traditional distortion-based attacks, SAPIRE:
 
 * operates on **semantic regions**
 * preserves **perceptual identity**
@@ -43,7 +43,7 @@ This creates a mismatch between:
 
 To formalize this gap, we introduce Perceptual Identity (PI), which captures whether a transformed image is still perceived as the same visual entity, and the Perceptual Identity Boundary (PIB), which defines the limit beyond which this identity is no longer preserved.
 
-**SAGA addresses this gap** by generating controlled transformations that:
+**SAPIRE addresses this gap** by generating controlled transformations that:
 
 * remain within the identity-preserving regime
 * progressively remove semantic components

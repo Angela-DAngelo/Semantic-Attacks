@@ -11,7 +11,7 @@ Official implementation of **Semantic-Aware Perceptual Identity Region Editing (
 
 
 <p align="center">
-  <img src="assets/visual.jpg" width="750"/>
+  <img src="assets/visual_SAPIRE.pdf" width="750"/>
 </p>
 
 Conceptual illustration of perceptual identity and identity-preserving attacks for watermark robustness.
